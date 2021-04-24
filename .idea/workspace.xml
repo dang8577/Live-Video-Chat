@@ -16,6 +16,7 @@
       <change afterPath="$PROJECT_DIR$/client/src/Components/VideoPlayer.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/SocketContext.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
@@ -41,7 +42,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rYNmqb9d1EUWCItYCAOPxmOxrD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -72,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619149224770</updated>
       <workItem from="1619149225978" duration="13097000" />
-      <workItem from="1619242408997" duration="712000" />
+      <workItem from="1619242408997" duration="1148000" />
     </task>
     <servers />
   </component>
